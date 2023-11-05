@@ -13,5 +13,5 @@ Password generator application build in React. Provides a selection of options s
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" height="40" alt="sass logo"  />
 </div>
 
-## Live Demo
+## Demo
 [Demo](https://password-generator-invo.netlify.app/)
